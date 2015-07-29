@@ -132,12 +132,12 @@ menu.title.text.justify: center
 ### OSD
 osd.border.width: 0
 
-osd.border.color: #3c4049
+osd.border.color: #dbdfe3
 
 osd.label.text.color: #3c4049
 
 osd.bg: flat solid
-osd.bg.color: #3c4049
+osd.bg.color: #dbdfe3
 osd.label.bg: flat solid
 osd.label.bg.color: #5294E2
 osd.hilight.bg: flat solid
