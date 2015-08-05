@@ -130,19 +130,19 @@ menu.title.text.justify: center
 #menu.title.text.font: text shadow
 
 ### OSD
-osd.border.width: 0
+osd.border.width: 1
 
 osd.border.color: #dbdfe3
 
-osd.label.text.color: #3c4049
+osd.label.text.color: #5c616c
 
 osd.bg: flat solid
-osd.bg.color: #dbdfe3
+osd.bg.color: #e7e8eb
 osd.label.bg: flat solid
-osd.label.bg.color: #5294E2
+osd.label.bg.color: #e7e8eb
 osd.hilight.bg: flat solid
-osd.hilight.bg.color: #dbdfe3
+osd.hilight.bg.color: #5294E2
 osd.unhilight.bg: flat solid
-osd.unhilight.bg.color: #3c4049
+osd.unhilight.bg.color: #ffffff
 
 #osd.label.text.font: text shadow
