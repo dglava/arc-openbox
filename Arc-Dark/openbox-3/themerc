@@ -44,7 +44,6 @@ window.active.button.hover.image.color: #afb8c5
 window.active.button.toggled.unpressed.image.color: #D3DAE3
 window.active.button.toggled.pressed.image.color: #5294E2
 window.active.button.toggled.hover.image.color: #afb8c5
-
 window.inactive.button.unpressed.image.color: #1F2328
 window.inactive.button.pressed.image.color: #5294E2
 window.inactive.button.disabled.image.color: #2d3036
@@ -52,8 +51,6 @@ window.inactive.button.hover.image.color: #afb8c5
 window.inactive.button.toggled.unpressed.image.color: #1F2328
 window.inactive.button.toggled.pressed.image.color: #5294E2
 window.inactive.button.toggled.hover.image.color: #afb8c5
-
-
 
 window.active.title.bg: flat solid
 window.active.title.bg.color: #2f343b
