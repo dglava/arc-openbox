@@ -1,5 +1,5 @@
 # Arc Openbox theme
-# Copyright (C) 2015 dinomol@mail.com
+# Copyright (C) 2015 Dino Duratović <dinomol@mail.com>
 #
 # Inspired by and made for horst3180's Arc GTK theme
 # https://github.com/horst3180/Arc-theme
@@ -29,8 +29,8 @@ padding.height: 4
 
 window.active.border.color: #dbdfe3
 window.inactive.border.color: #dbdfe3
-window.active.title.separator.color: #dbdfe3
-window.inactive.title.separator.color: #dbdfe3
+window.active.title.separator.color: #e7e8eb
+window.inactive.title.separator.color: #e7e8eb
 window.active.client.color: #dbdfe3
 window.inactive.client.color: #dbdfe3
 
@@ -66,33 +66,19 @@ window.inactive.label.bg.color: #e7e8eb
 #window.inactive.grip.bg: texture
 
 window.active.button.unpressed.bg: parentrelative
-#window.active.button.unpressed.bg.color: #
-window.active.button.pressed.bg: flat solid
-window.active.button.pressed.bg.color: #ffffff
-window.active.button.hover.bg: flat solid
-window.active.button.hover.bg.color: #ffffff
-window.active.button.disabled.bg: flat solid
-window.active.button.disabled.bg.color: #ffffff
-window.active.button.toggled.unpressed.bg: flat solid
-window.active.button.toggled.unpressed.bg.color: #ffffff
-window.active.button.toggled.pressed.bg: flat solid
-window.active.button.toggled.pressed.bg.color: #ffffff
-window.active.button.toggled.hover.bg: flat solid
-window.active.button.toggled.hover.bg.color: #ffffff
+window.active.button.pressed.bg: parentrelative
+window.active.button.hover.bg: parentrelative
+window.active.button.disabled.bg: parentrelative
+window.active.button.toggled.unpressed.bg: parentrelative
+window.active.button.toggled.pressed.bg: parentrelative
+window.active.button.toggled.hover.bg: parentrelative
 window.inactive.button.unpressed.bg: parentrelative
-#window.inactive.button.unpressed.bg.color: #
-window.inactive.button.pressed.bg: flat solid
-window.inactive.button.pressed.bg.color: #ffffff
-window.inactive.button.hover.bg: flat solid
-window.inactive.button.hover.bg.color: #ffffff
-window.inactive.button.disabled.bg: flat solid
-window.inactive.button.disabled.bg.color: #ffffff
-window.inactive.button.toggled.unpressed.bg: solid flat
-window.inactive.button.toggled.unpressed.bg.color: #ffffff
-window.inactive.button.toggled.pressed.bg: solid flat
-window.inactive.button.toggled.pressed.bg.color: #ffffff
-window.inactive.button.toggled.hover.bg: solid flat
-window.inactive.button.toggled.hover.bg.color: #ffffff
+window.inactive.button.pressed.bg: parentrelative
+window.inactive.button.hover.bg: parentrelative
+window.inactive.button.disabled.bg: parentrelative
+window.inactive.button.toggled.unpressed.bg: parentrelative
+window.inactive.button.toggled.pressed.bg: parentrelative
+window.inactive.button.toggled.hover.bg: parentrelative
 
 window.label.text.justify: center
 
