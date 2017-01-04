@@ -20,7 +20,7 @@ Arc
 ![](https://raw.githubusercontent.com/dglava/arc-openbox/master/screens/arc.png)
 
 Arc-Dark
-![](https://raw.githubusercontent.com/dglava/arc-openbox/master/screens/arc-dark.png
+![](https://raw.githubusercontent.com/dglava/arc-openbox/master/screens/arc-dark.png)
 
 Arc-Darker
 ![](https://raw.githubusercontent.com/dglava/arc-openbox/master/screens/arc-darker.png)
