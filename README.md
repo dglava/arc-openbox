@@ -17,10 +17,10 @@ Place the Arc and Arc-Dark directories either in **~/.themes** (available for yo
 It's available in the [AUR](https://aur.archlinux.org/packages/openbox-arc-git/).
 
 Arc
-![](https://github.com/dglava/arc-openbox/tree/master/screens/arc.png)
+![](https://raw.githubusercontent.com/dglava/arc-openbox/master/screens/arc.png)
 
 Arc-Dark
-![](https://github.com/dglava/arc-openbox/tree/master/screens/arc-dark.png)
+![](https://raw.githubusercontent.com/dglava/arc-openbox/master/screens/arc-dark.png
 
 Arc-Darker
-![](https://github.com/dglava/arc-openbox/tree/master/screens/arc-darker.png)
+![](https://raw.githubusercontent.com/dglava/arc-openbox/master/screens/arc-darker.png)
