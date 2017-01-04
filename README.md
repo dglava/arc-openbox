@@ -6,6 +6,8 @@ Contributions are more than welcome, since it's far from perfect.
 The original Arc theme for which it was made:
 https://github.com/horst3180/Arc-theme
 
+Arc-Darker created by [Narrat](https://github.com/Narrat).
+
 ### How to install
 ##### Obconf
 Under "Theme" click on "Install a new theme..." and point it to the .obt files.
@@ -15,7 +17,10 @@ Place the Arc and Arc-Dark directories either in **~/.themes** (available for yo
 It's available in the [AUR](https://aur.archlinux.org/packages/openbox-arc-git/).
 
 Arc
-![](http://s7.postimg.org/6pojeuywb/2015_08_11_122221_1280x800_scrot.png)
+![](https://github.com/dglava/arc-openbox/tree/master/screens/arc.png)
 
 Arc-Dark
-![](http://s7.postimg.org/5m4f2we97/2015_08_11_122039_1280x800_scrot.png)
+![](https://github.com/dglava/arc-openbox/tree/master/screens/arc-dark.png)
+
+Arc-Darker
+![](https://github.com/dglava/arc-openbox/tree/master/screens/arc-darker.png)
