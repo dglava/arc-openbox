@@ -7,8 +7,7 @@ The original Arc theme for which it was made:
 https://github.com/horst3180/Arc-theme
 
 Active fork of the GTK3 theme which is getting fixes: 
-https://github.com/NicoHood/arc-theme
-It also contains this Openbox theme which should be identical with the Openbox theme in this repository.
+https://github.com/jnsh/arc-theme
 
 Arc-Darker created by [Narrat](https://github.com/Narrat).
 
